@@ -4,6 +4,12 @@ I'm a novice front-end developer, passionate about the best web and mobile devel
 - 👀 I’m interested in opportunity as a front-end developer
 - 🌱 I’m currently learning: HTML5, CSS3, JavaScript, React, NodeJs
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJPVR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 <!---
 DevJPVR/DevJPVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
