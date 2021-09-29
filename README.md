@@ -3,8 +3,6 @@
 I'm a novice front-end developer, passionate about the best web and mobile development technologies. I am studying and practicing in a self-taught way through courses and tutorials focused on the latest development technology, and solidifying my knowledge in javascript.
 - 👀 I’m interested in opportunity as a front-end developer
 - 🌱 I’m currently learning: HTML5, CSS3, JavaScript, React, NodeJs
-#
-
 <div align="center">
   <a href="https://github.com/devjpvr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devjpvr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
