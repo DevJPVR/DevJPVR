@@ -4,8 +4,10 @@ I'm a novice front-end developer, passionate about the best web and mobile devel
 - 👀 I’m interested in opportunity as a front-end developer
 - 🌱 I’m currently learning: HTML5, CSS3, JavaScript, React, NodeJs
 <div align="center">
+  <a href="https://github.com/devjpvr/">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devjpvr&show_icons=true&theme=dracula" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjpvr&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
