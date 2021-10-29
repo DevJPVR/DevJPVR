@@ -3,6 +3,7 @@
 I'm a novice front-end developer, passionate about the best web and mobile development technologies. I am studying and practicing through courses focused on the latest development technologies, and solidifying my knowledge in javascript.
 - 👀 I’m interested in opportunity as a front-end developer
 - 🌱 I’m currently learning: HTML5, CSS3, JavaScript, React, NodeJs
+
 <div align="center">
   <a href="https://github.com/devjpvr/">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devjpvr&show_icons=true&theme=dracula" />
@@ -25,6 +26,9 @@ I'm a novice front-end developer, passionate about the best web and mobile devel
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dev.joaopedrovieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaopedro-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ##
+<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/raw/master/animation_500_kv8i962g.gif?raw=true" style="max-width: 100%;">
  
  
 </div>
