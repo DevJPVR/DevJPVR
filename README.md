@@ -1,8 +1,4 @@
--Hi there 👋
-
-I'm a front-end developer, passionate about the best web and mobile development technologies. I am studying and practicing through courses focused on the latest development technologies, and solidifying my knowledge in javascript.
-- 👀 I’m interested in opportunity as a front-end developer
-- 🌱 I’m currently learning: HTML5, CSS3, JavaScript, React, NodeJs
+Hello :) I’m a Frontend Developer , currently living in Portugal, I like working with React and NextJs. Also my skills include code versioning knowledge (GIT), Javascript (ES6), HTML5/CSS3, typescript, Redux, Axios,GraphQL, Node, Framer motion, TailwindCss,  (and other js libraries).
 
 <div align="center">
   <a href="https://github.com/devjpvr/">
